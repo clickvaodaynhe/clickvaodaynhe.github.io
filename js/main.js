@@ -24,7 +24,7 @@ function firstQuestion(){
         text: CONFIG.introDesc,
 
         // 2. Ảnh ở câu hỏi đầu tiên
-        imageUrl: 'img/anh1.gif',
+        imageUrl: 'img/cute.jpg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff linear-gradient( 310deg, #7928ca 0%, #ff0080 100%)',
@@ -32,7 +32,7 @@ function firstQuestion(){
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
         $('.content').show(200);
-        var audioB = new Audio('sound/backgroundmusic.mp3');
+        var audioB = new Audio('sound/music.mp3');
         audioB.play();
       })
 }
