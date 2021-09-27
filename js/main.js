@@ -32,7 +32,7 @@ function firstQuestion(){
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
         $('.content').show(200);
-        var audioB = new Audio('sound/music.mp3');
+        var audioB = new Audio('sound/backgroundmusic.mp3');
         audioB.play();
       })
 }
