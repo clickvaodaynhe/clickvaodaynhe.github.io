@@ -13,6 +13,6 @@ const CONFIG = {
     btnReply: 'Send',
     reply: 'Sinh nhật thật vui vẻ nha, thật nhiều tiếng cười, thật hạnh phúc… Và sang tuổi mới, kiếm được nhiều tiền nè. Và đặc biệt… hãy luôn là người con gái thật rạng ngời trong cuộc sống nhé.',
     mess: 'Đoán đúng rồi ấy, Cậu thấy chưa tụi mình hợp ý nhau ghê!',
-    messDesc: 'Đó, xong rồi đó.... Sinh nhật zui zẻ nhaaa. Tím đỏ của tớ.',
+    messDesc: 'Đó, xong rồi đó.... Sinh nhật zui zẻ nhaaa.',
     btnAccept: 'Ok lun',
 }
