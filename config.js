@@ -1,18 +1,17 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: 'Hế luuuu ',
-    introDesc: `Hôm nay, là ngày đặc biệt…
-    Tớ có điều muốn nói với cậu, cậu có muốn nghe hông?`,
+    introTitle: 'Hết lu=哈囉 ',
+    introDesc: `Hôm nay là ngày đặc biệt….tớ có điều muốn nói với cậu cậu có muốn nghe không?  = 今天是個蠻特別的日子。。。我有事想跟你講的，你想不想聽🤭`,
     btnIntro: 'OK',
-    title: 'Nay là sinh nhật của cậu rồi ấy, đố cậu biết tớ đang nghĩ gì nào?',
-    desc: 'Ờ,  trả lời cho tớ biết đi.> ',
-    btnYes: 'Uhmm, để đoán thử. ',
-    btnNo: 'Không biết, đoán không ra. ',
-    question:'Chắc là',
-    reasonPlaceholder: 'Gõ vào đây nè...',
+    title: 'Nay là sinh Nhật của cậu rồi ấy, đố câu biết tớ đang nghĩ gì nào=今天是你的生日，你猜猜我在想什麼的啊😎',
+    desc: 'Ờ, tl cho tớ biết đi = Uhm，讓我知道你的答案。^_^> ',
+    btnYes: 'Uhm, để đoán thử=uhm, 我猜猜 ',
+    btnNo: 'Không biết đoán không ra= 不知道啦，猜不出來',
+    question:'Chắc là= 也許是',
+    reasonPlaceholder: 'Gõ vào đây nè=在這兒輸入你的答案...',
     btnReply: 'Send',
-    reply: 'Sinh nhật thật vui vẻ nha, thật nhiều tiếng cười, thật hạnh phúc… Và sang tuổi mới, kiếm được nhiều tiền nè. Và đặc biệt… hãy luôn là người con gái thật rạng ngời trong cuộc sống nhé.',
-    mess: 'Đoán đúng rồi ấy, Cậu thấy chưa tụi mình hợp ý nhau ghê!',
+    reply: 'Đoán đó, xong rồi đó…..sinh Nhật zui ZÊ nhà =我只想跟你說一句話就是 祝你生日快樂，趕早達到自己的目標，每天都愉快、笑著🤜🤛。27歲是個不小也不大的年齡，加油👍',
+    mess: 'Đoán đúng r, cậu thấy chưa tụi mình hợp ý nhau ghê =Wow，猜對了。你看到了沒，我們很投契！',
     messDesc: 'Đó, xong rồi đó.... Sinh nhật zui zẻ nhaaa.',
     btnAccept: 'Ok lun',
 }
