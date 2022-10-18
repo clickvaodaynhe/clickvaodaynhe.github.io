@@ -10,7 +10,7 @@ const CONFIG = {
     question:'也許是',
     reasonPlaceholder: '在這兒輸入你的答案...',
     btnReply: 'Send',
-    reply: '我只想跟你說一句話就是 祝你生日快樂，趕早達到自己的目標，每天都愉快、笑著🤜🤛。27歲是個不小也不大的年齡，加油👍',
+    reply: '我只想跟你說一句話就是 祝你生日快樂，趕早達到自己的目標，每天都愉快、笑著 🤜🤛。27歲是個不小也不大的年齡，加油👍',
     mess: 'Wow，猜對了。你看到了沒，我們很投契！',
     messDesc: 'Đó, xong rồi đó.... Sinh nhật zui zẻ nhaaa.',
     btnAccept: 'Ok lun',
